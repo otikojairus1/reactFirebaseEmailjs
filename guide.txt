@@ -1,0 +1,1 @@
+Create an account with EmailJS, you’ll be given the user id that you should substitute in the userID section inside the js code. You can just send emails to specified email addresses since by default you are using a test cap of the EmailJS, you also opt to buy a premium package for the same if you wish. The system uses firebase for authentication. And react for frontend
